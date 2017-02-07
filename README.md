@@ -1,4 +1,6 @@
 # Screwdriver.yaml Configuration Parser
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/screwdriver-cd/config-parser.svg)](https://greenkeeper.io/)
 [![Version][npm-image]][npm-url] ![Downloads][downloads-image] [![Build Status][status-image]][status-url] [![Open Issues][issues-image]][issues-url] [![Dependency Status][daviddm-image]][daviddm-url] ![License][license-image]
 
 > Node module for validating and parsing `screwdriver.yaml` configurations
